@@ -1,0 +1,64 @@
+jaime#Corocoro#1.828
+maribel#Vaca#0.282
+maribel#Vaca#0.364
+jaime#Perca americana#3.089
+maribel#Aranya de cap negre#1.179
+jaime#Corocoro#0.233
+
+
+maribel#Pargo de cola amarilla#1.971
+maribel#Mero rojo#16.93
+maribel#Pez león#1.174
+maribel#Pargo de cola amarilla#2.190
+maribel#Sargo chopa#3.749
+maribel#Bouquinete#0.830
+maribel#Bouquinete#1.369
+maribel#Vaca#0.372
+maribel#Vaca#0.442
+maribel#Doncella#0.324
+maribel#Serrà#0.272
+maribel#Vaca#0.175
+maribel#Vaca#0.205
+maribel#Pedaç#1.020
+maribel#Vaca#0.441
+maribel#Doncella#0.306
+maribel#Cap Roig#3.082
+maribel#Anfós#3.563
+maribel#Doncella#0.229
+lolito#Vaca#0.236
+lolito#Serrà#0.306
+lolito#Vaca#0.442
+lolito#Dènton#4.193
+lolito#Serrà#0.328
+lolito#Doncella#0.206
+lolito#Serrà#0.172
+lolito#Doncella#0.135
+lolito#Doncella#0.235
+lolito#Esparrall#0.336
+lolito#Doncella#0.129
+lolito#Doncella#0.225
+lolito#Doncella#0.301
+lolito#Doncella#0.162
+lolito#Serrà#0.185
+jaime#Pargo criollo#1.784
+jaime#Bouquinete#1.507
+jaime#Perca americana#0.638
+jaime#Pargo de cola amarilla#0.774
+jaime#Corocoro#0.891
+jaime#Corocoro#2.105
+jaime#Corocoro#1.281
+jaime#Corocoro#1.851
+jaime#Perca americana#1.675
+jaime#Bouquinete#1.408
+jaime#Anfós#2.495
+jaime#Aranya de cap negre#2.296
+jaime#Cap Roig#1.816
+jaime#Esparrall#0.382
+jaime#Doncella#0.197
+jaime#Esparrall#0.373
+maribel#Vaca#0.415
+maribel#Pez león#0.787
+maribel#Pez león#1.104
+maribel#Mero de Nassau#5.602
+maribel#Corocoro#2.192
+ggggggggggggfgfgfgfgfgfgfgfgfgfgfgffggfgffgfgfgfgfgfgfgfgfgfgfgfgfgfgfgffgfgfgfgfgfgfgfgfgfgfgffgfg#Doncella#0.256
