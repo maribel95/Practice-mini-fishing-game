@@ -1,4 +1,9 @@
 # Practice-mini-fishing-game
-Fishing game for the final practice of the programming 1 subject. It consists of choosing a user, choosing an area to fish. In each area you can get different fish with different weights each. The data is saved in a file.
+This is a fishing simulator. It is played through the terminal, where a menu with different options will be displayed.
 
-It does not have a graphical interface. Everything is played through the console.
+- [X] Choose fishing. In this case, the locations are Florida and the Mediterranean.
+- [X] Register user.
+- [X] Unsubscribe user.
+- [X] Start fishing.
+- [X] Game statistics. They can be reviewed by individual user, or globally for all players.
+
