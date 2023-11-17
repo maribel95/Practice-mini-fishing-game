@@ -40,7 +40,7 @@ A constructor has been added to the Paraula class. A parameter is added that wil
 Added a method that returns a boolean value that compares whether two words are equal. It is used to check that the registrations and cancellations are correct.
 
 
-### Peix(Fish) and Pescador(Fisherman) Class.
+### Peix(Fish) and Pescador(Fisherman) class.
 
 The practice has been thought in such a way in which we deal with the relationship of a fish with its angler. The fish class is useful for storing data about fish.
   The fish data is found in the fishery files. The information is segmented into four parts through pads. This class is responsible for simplifying this data to be able to save it and later work with it in a simpler way.
@@ -51,6 +51,26 @@ The Fisher class is not that complex. In particular, this class has been created
 The constructor initializes the attributes.
 The updateMillorPeix method compares the weight of the fish of the same species that arrive to save the largest. This uses an auxiliary method called afegeixNouPeix, which adds one more species of fish to the array.
 
+
+### Fishing simulator class.
+
+This class allows all menu options to work.
+
+There are auxiliary files that will help when unsubscribing or registering users.
+
+The first method found is to showPuntuacioGlobal, whose purpose is to allow you to see the global statistics of all users. You will go through the fishing file to find the biggest catches of each type of fish. We will look at who caught it so we can print it on the screen. An auxiliary private method called showPuntuacioGlobalPesqueres is used, to be able to use it for both fisheries files, Florida and Mediterránea.
+
+Similar code is used for individual statistics, with the showScore method. What it does is similar, only this time the fish will be searched according to the user entered, and the comparison will be made to find out which ones have the greatest weight.
+
+In order to execute the option of going fishing at a fishing station, two more methods have been created in this class. One is literally fishing, which depending on which fishery you decide to go to, you can catch different fish. When fishing, a random will be used, which will give a number between 0 and 1. Each fish has a number between those and depending on the number that comes out, one fish or another will be caught. The fish that will be caught will be the fish that is just above that number. In addition, the weight of the fish will also be a random between the two numbers that the list enables.
+
+The escriurePesca method, what it does is write the fish in the format with the pads inside a file. All the catches are written next to the user. In addition, an auxiliary file will be created where the new catches will be transferred.
+
+User registration method. What this method does is check if the users file exists, since if not, the file should be created and the first username recorded. If it already existed beforehand, you must check if the user you are trying to register had already registered previously, since in that case an error would occur since it is not possible to repeat the name. In the event that this username did not previously exist, the new user would be written to the file and therefore the registration would be successful.
+To carry out this method, other private methods have been used to facilitate all operations. The first, writeFirstUser, opens the file, writes the user passed by parameter and closes the file. The second, existenixUsuari, scans the file to check whether or not that same user from before already existed. And the third submethod is the one that allows the first user to write a file. A new file is created and the first user is written, passed by parameter.
+
+The last function is to unsubscribe users and for this purpose a submethod called deleteUsuari has also been developed. This plays with two files, an auxiliary one where it will copy all the users saved beforehand except the one you want to delete. Later all this information will return to the original file and the auxiliary will be deleted. Finally, the files are closed to avoid problems.
+So what the baixUsuari method first does is check that the user file exists, since if not, it could not delete any user. If so, you must verify that the user already existed beforehand to be able to delete it now.
 
 
 
